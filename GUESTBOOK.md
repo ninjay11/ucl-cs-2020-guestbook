@@ -8,6 +8,9 @@ If you're stuck, check out the [README](./README.md) file/homepage for instructi
 
 # Entries
 
+### Jay McCaughrean
+i like trains
+
 ### Shubham Jain
 I loooveeeeee the [Chuck](https://www.nbc.com/chuck) TV series.
 
